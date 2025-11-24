@@ -2,6 +2,8 @@ import React, { useEffect, useState } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
 import { Link, Route, Routes } from 'react-router-dom'
 import { MoonIcon, SunIcon } from './icons'
+import Home from './pages/Home'
+import ProjectPage from './pages/ProjectPage'
 
 
 export default function App() {
