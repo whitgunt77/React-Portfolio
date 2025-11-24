@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
-import { Link } from 'react-router-dom'
+import { Link, Route, Routes } from 'react-router-dom'
 import { MoonIcon, SunIcon } from './icons'
 
 
